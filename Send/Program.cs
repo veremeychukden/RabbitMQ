@@ -22,7 +22,7 @@ class Send
                     routingKey: "hello",
                     basicProperties: null,
                     body: body);
-                Console.WriteLine(message);
+                Console.WriteLine(message); 
             }
     }
 }

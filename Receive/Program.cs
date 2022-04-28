@@ -28,4 +28,4 @@ class Receive
                     consumer: consumer);
             }
     }
-}
+} 
